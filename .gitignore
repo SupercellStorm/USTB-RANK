@@ -1,0 +1,9 @@
+# 备份文件
+*.bak
+
+# Node
+node_modules/
+
+# 系统缓存
+Thumbs.db
+.DS_Store
